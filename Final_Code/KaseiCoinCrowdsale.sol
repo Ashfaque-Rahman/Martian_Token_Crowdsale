@@ -31,7 +31,7 @@ contract KaseiCoinCrowdsaleDeployer {
        address payable wallet
     ) public {
         // Creating a new instance of the KaseiCoin contract.
-        KaseiCoin token = new KaseiCoin(name, symbol, 18);
+        KaseiCoin token = new KaseiCoin(name, symbol, 0);
 
         // Aassiging the `KaseiCoinToken` contract’s address to the `kasei_token_address` variable.          
         kasei_token_address = address(token);
