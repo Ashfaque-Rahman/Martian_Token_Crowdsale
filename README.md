@@ -14,16 +14,16 @@ Here is a demo what we did by the end of this project
 * Run all the functions and validate the result.
 
 ### Create and Compile
-We created a [KaseiCoin Token Contract](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Final_Code/KaseiCoin.sol) and [KaseiCoin Crwodsale and Deployer Contract](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Final_Code/KaseiCoinCrowdsale.sol) where we used [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20.sol),[ERC20Detailed](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Detailed.sol),[ERC20Mintable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Mintable.sol), [Crowdsale](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol) and [MintedCrowdsale](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol) library from [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) and successfully compiled them using [Remix](https://remix.ethereum.org/)
+We created a [KaseiCoin Token Contract](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Final_Code/KaseiCoin.sol) and [KaseiCoin Crwodsale and Deployer Contract](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Final_Code/KaseiCoinCrowdsale.sol) where we used [ERC20](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20.sol), [ERC20Detailed](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Detailed.sol), [ERC20Mintable](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC20/ERC20Mintable.sol), [Crowdsale](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol) and [MintedCrowdsale](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol) library from [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-contracts) and successfully compiled them using [Remix](https://remix.ethereum.org/)
 
 *KaseiCoin Token Contract
-[alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/1.successful_compilation_KAI.JPG)
+![alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/1.successful_compilation_KAI.JPG)
 
 *KaseiCoin Crwodsale Contract
-[alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/2.compile_crowdsale.JPG)
+![alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/2.compile_crowdsale.JPG)
 
 *KaseiCoin Deployer Contract
-[alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/3.compile_crwdsaledeployer.JPG)
+![alt=""](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/blob/main/Evaluation_Evidence/3.compile_crwdsaledeployer.JPG)
 
 
 ### Deploy and Test
