@@ -33,6 +33,10 @@ In below, there is an animated GIF to show all the steps to deploy and test this
 
 3. Connet the Metamask to Remix IDE using Injected Web3 environment. If connected successfully, you will be prompted to connect the previously imported Ganache wallets to the Remix IDE.
 4. By selecting any of the imported wallet, we can now deploy the `Crowdsale Deployer` contract. Remember to set `Name`=`KaseiCoin`, `Symbol`=`KAI` and `wallet`="`address of the wallet from which contract is deplyoing`". After successfully deplyed, we should be able to see the `kasei_crowdsale_address` and `kasei_token_address` to the left pane of remix.
-5. 
+5. Now we can bring our `KaseiCoin` Contract and `KaseiCoin Crowsdsale` contract using `At Address` button just below the deploy button. We will use respective address found in the previous step to bring out the contract visible.
+6. Finally we can now buy `KaseiCoin` using other metamask wallet if the is balance available. After successful transaction, we would be able to see that, balance of ETH will decrease in the address with which we are buying the token and balance of contract will increase in exact same amount of ETH. Also we can find how much Crowdsale we made, using `totalSupply` in **KaseiCoin** COntract and `weRaised` in **KaseiCoinCrowdsale** Contract.
+
+### Conclusion
+After all successful transactions, we have recorded all screenshots and animated GIF in the [Evaluation_Evidence](https://github.com/Ashfaque-Rahman/Martian_Token_Crowdsale/tree/main/Evaluation_Evidence) folder for record keeping
 
 
